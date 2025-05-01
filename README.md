@@ -1,23 +1,29 @@
-# Project Name
+# 🚀 Node.js CI Pipeline with GitHub Actions, Docker, and Jest
 
-## Overview
+This project demonstrates how to set up a **Continuous Integration (CI)** pipeline using **GitHub Actions**, containerize a **Node.js** application with **Docker**, and run unit tests with **Jest**.
 
-Briefly describe your project and its purpose.
+The project includes:
 
-## Prerequisites
+- **Node.js application** with a simple node js project.
+- **Jest** for unit and integration tests.
+- **GitHub Actions** for automating build, test, and deployment processes.
+- **Docker** for containerization of the Node.js app.
 
-Before you begin, make sure you have the following installed on your machine:
+## 🛠️ Tech Stack
 
-- [Docker](https://docs.docker.com/get-docker/)
-- [Node.js](https://nodejs.org/)
+- **Node.js** – JavaScript runtime for server-side development
+- **Jest** – Testing framework
+- **Docker** – Containerization of the application
+- **GitHub Actions** – CI/CD automation pipeline
+- **Express.js** – Web framework for Node.js
 
-## Getting Started
 
-Follow these steps to set up and run the project locally.
+## 📁 Project Setup
 
- **Clone the Repository:**
+### 1. Clone the Repository
 
-   ```bash
-   mkdir test
-   git clone https://github.com/CharithX/node-sample
-   cd node-sample
+Clone this repository to your local machine:
+
+```bash
+git clone https://github.com/CharithX/GitHub-Action-and-Docker.git
+cd GitHub-Action-and-Docker
